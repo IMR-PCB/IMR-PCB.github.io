@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yao Guo(郭遥) / SJTU(上海交通大学)"
+title                    : "IMR-PCB/Yao Guo(郭遥)"
 title_separator          : "-"
 name                     : &name "Yao Guo"
 description              : &description "Group website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "Me2021-1-small.jpg"
   name             : "Dr. Yao Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor"
+  bio              : "Associate Professor, Group leader of IMR-PCB"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
