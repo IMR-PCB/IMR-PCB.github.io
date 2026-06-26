@@ -15,6 +15,7 @@ Dr. Guo engages in frontier theoretical research in areas such as human behavior
 
 **Perception, Cognition, and Behavior (PCB)** group is one of fundamental research centers of **IMR@SJTU**. IMR-PCB aims to endow robots with human-like intelligence. However, the cognitive and replicative capabilities of robots and artificial intelligence are often underestimated. Perception and cognition are essential components of both teleoperated and autonomous robots, enabling attention-based control, reactive behaviors, situational awareness, and seamless human-robot interaction. By leveraging the latest advances in computational and experimental neuroscience, IMR-PCB focuses on the fundamental principles of brain function and their practical applications in human-machine symbiotic systems. 
 
+<a id="news"></a>
 News (last three years)
 ======
 * 2026.06 Our paper was accepted by **IEEE Transactions on Mobile Computing!**
