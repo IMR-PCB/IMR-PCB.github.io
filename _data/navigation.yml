@@ -12,7 +12,7 @@ main:
     url: /
 
   - title: "News"
-    url: /
+    url: /#news
     
   - title: "Publications"
     url: /
