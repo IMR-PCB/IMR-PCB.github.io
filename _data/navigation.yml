@@ -20,8 +20,8 @@ main:
   - title: "Team Members"
     url: /portfolio/
     
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Blog Posts"
   #   url: /year-archive/
