@@ -56,9 +56,10 @@ News (last three years)
 Selected Publications 
 ======
 <span style="color:blue">**2026**</span>
-[53] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, Yao Guo*, “Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach”, IEEE Transactions on Mobile Computing (TMC), Accepted, 2026. (*Corresponding author)
 
-[52] Yating Luo, Yuxuan Liu, Yunfei Luan, Yao Guo*, and Guang-Zhong Yang*, "A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision," IEEE/ASME Transactions on Mechatronics (TMECH), Accepted, 2026. [Paper](*Co-corresponding author)
+\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo***, “Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach”, _IEEE Transactions on Mobile Computing (TMC)_, Accepted, **2026**. (*Corresponding author)
+
+\[52\] Yating Luo, Yuxuan Liu, Yunfei Luan, **Yao Guo***, and Guang-Zhong Yang*, "A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision," _IEEE/ASME Transactions on Mechatronics (TMECH)_, Accepted, **2026**. \[Paper\](*Co-corresponding author)
 
 [51] Xinyao Zhou, Yuxuan Liu, Yating Luo, Yunfei Luan, Guang-Zhong Yang, Yao Guo*, "Wrist Camera Pose-Guided Multi-View Fusion for Occlusion Reconstruction in Robot-Assisted Microsurgical Anastomosis'', International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), Strasbourg, France, Accepted, 2026. (*Corresponding author)
 
@@ -70,7 +71,7 @@ Selected Publications
 
 [47] Yunfei Luan, Yating Luo, Yuxuan Liu, Musen Zhang, Yujian An, Jianxin Yang, Yao Guo*, and Guang-Zhong Yang*, "Autofocusing with Three-Dimensional Tracking for Robot-Assisted Microsurgery," IEEE/ASME Transactions on Mechatronics (TMECH), vol. 31, no. 1, pp. 220-231, 2026. [Paper][Code] (*Co-corresponding author)
 
-2025
+<span style="color:blue">**2025**</span>
 
 [46] Bingze He, Yao Guo*, and Guang-Zhong Yang*, "Integrated Piezoelectric Vibration and In-Situ Force Sensing for Low-Trauma Tissue Penetration," Cyborg and Bionic Systems (CBS), vol. 6, pp. 4017, 2025. [Paper] (*Co-corresponding author, Cover Article)
 
@@ -88,7 +89,7 @@ Selected Publications
 
 [39] Tianshu Zhao†, Zhenye Xu†, Pu Wang*, Yao Guo*, "Hybrid Learning-based Balance Function Assessment of Stroke Patients with a Single Ear-Worn IMU", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 16373-16378. [Paper](*Co-corresponding author)
 
-2024
+<span style="color:blue">**2024**</span>
 
 [38] Zhongling Liu†, Jinkai Li†, Yuanyuan Zhang, Dan Wu, Yanyan Huo, Jianxin Yang, Musen Zhang, Chuanfei Dong, Luhui Jiang, Ruohan Sun, Ruoyin Zhou, Fei Li, Xiaodan Yu, Daqian Zhu,Yao Guo*, and Jinjin Chen*, "Auxiliary Diagnosis of Children with Attention-Deficit/Hyperactivity Disorder: An Eye-Tracking Study with Novel Digital Biomarkers," JMIR mHealth and uHealth, vol. 12, pp. e58927, 2024. [Paper] (*Co-corresponding author)
 
@@ -106,7 +107,7 @@ Selected Publications
 
 [31] Yunfei Luan†, Muhang He†, Yudong Tian, Chengjie Lin, Yunhan Fang, Zihao Zhao, Jianxin Yang, Yao Guo*, "Intelligent Disinfection Robot with High-Touch Surface Detection and Dynamic Pedestrian Avoidance”，IEEE International Conference on Robotics and Automation (ICRA), Yokohoma, Japan, 2024, pp. 3595-3601. [Paper] (*Corresponding author)
 
-2023
+<span style="color:blue">**2023**</span>
 
 [30] Yuxuan Liu, Jianxin Yang, Xiao Gu, Yijun Chen, Yao Guo*, and Guang-Zhong Yang*, "EgoFish3D: Egocentric 3D Pose Estimation from a Fisheye Camera via Self-Supervised Learning", IEEE Transactions on Multimedia (TMM), vol. 25, pp. 8880-8891, 2023. [Paper][Code] (*Co-corresponding author)
 
@@ -116,7 +117,7 @@ Selected Publications
 
 [27] Yuxuan Liu, Jianxin Yang, Xiao Gu, Yao Guo*, and Guang-Zhong Yang*, "EgoHMR: Egocentric Human Mesh Recovery via Hierarchical Latent Diffusion Model ", IEEE International Conference on Robotics and Automation (ICRA), May, 2023, pp. 9807-9813. [Paper][Code]. (*Co-corresponding author)
 
-2022
+<span style="color:blue">**2022**</span>
 
 [26] Xiao Gu, Yao Guo, Zeju Li, Jianing Qiu, Qi Dou, Yuxuan Liu, Benny Lo*, and Guang-Zhong Yang*, "Tackling Long-Tailed Category Distribution Under Domain Shifts", European Conference on Computer Vision (ECCV), July, 2022, pp. 727-743. [Paper] [Code].
 
@@ -136,7 +137,7 @@ Selected Publications
 
 [18] Zhihao Yuan†, Xu Yan†, Yinghong Liao,Yao Guo, Guanbin Li, Zhen Li*, and Shuguang Cui , "X-Trans2Cap: Cross-Modal Knowledge Transfer using Transformer for 3D Dense Captioning", IEEE/CVF Conference of Computer Vision and Pattern Recognition (CVPR), June, 2022, pp. 8563-8573. [Paper]
 
-2021
+<span style="color:blue">**2021**</span>
 
 [17] Yao Guo, Xiao Gu, and Guang-Zhong Yang*, "MCDCD: Multi-Source Unsupervised Domain Adaptation for Abnormal Human Gait Detection", IEEE Journal of Biomedical and Health Informatics (J-BHI), vol. 25, no. 10, pp. 4017-4028, October, 2021. [Paper]
 
@@ -146,7 +147,7 @@ Selected Publications
 
 [14] Yao Guo, Xiao Gu, and Guang-Zhong Yang*, “Human–Robot Interaction for Rehabilitation Robotics.” Digitalization in Healthcare: Implementing Innovation and Artificial Intelligence, Springer, pp. 269-295, 2021. [Chapter]
 
-Before 2021
+<span style="color:blue">**Before 2021**</span>
 
 [13] Xiao-Yun Zhou*, Yao Guo, Mali Shen, Guang-Zhong Yang, “Application of Artificial Intelligence in surgery,” Frontiers of Medicine, vol. 14, pp. 417-430, July, 2020. [Paper]
 
@@ -161,11 +162,17 @@ Before 2021
 [8] Dandan Zhang, Yao Guo, Junhong Chen, Jindong Liu, and Guang-Zhong Yang*, ``A Handheld Master Controller for Robot-Assisted Microsurgery,'' IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Macau, China, pp. 394-400, 2019.
 
 [7] Yao Guo, You-Fu Li*, Zhanpeng Shao, “RRV: A spatiotemporal descriptor for rigid body motion recognition,” IEEE Transactions on Cybernetics (TCyber), vol. 48, no. 5, pp. 1513-1525, May, 2018. [Paper]
+
 [6] Yao Guo, You-Fu Li*, Zhanpeng Shao, “DSRF: A Flexible Trajectory Descriptor for Articulated Human Action Recognition,” Pattern Recognition, vol. 76, April, pp. 137-148, April, 2018. [Paper]
+
 [5] Yao Guo, You-Fu Li*, Zhanpeng Shao, “On multi-scale self-similarities description for effective 3D/6D motion trajectory recognition,” IEEE Transactions on Industrial Informatics (TII), vol. 13, no. 6, pp. 3017-3026, December, 2017. [Paper]
+
 [4] Yao Guo, You-Fu Li*, and Zhanpeng Shao, “MSM-HOG: A flexible trajectory descriptor for rigid body motion recognition,” IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, Canada, pp. 4298-4303, 2017.
+
 [3] Yao Guo, You-Fu Li*, and Zhanpeng Shao, “DSRF: A Flexible Descriptor for Effective Rigid Body Motion Trajectory Recognition,” IEEE International Conference on Mechatronics and Automation (ICMA), Harbin, China, pp. 1673-1678, 2016. (Best Conference Paper Award)
+
 [2] Yao Guo, Kaide Huang, Nanyong Jiang, Xuemei Guo, Guoli Wang*, “An Exponential-Rayleigh model for RSS-based device-free localization and tracking,” IEEE Transactions on Mobile Computing (TMC), vol. 14, no. 3, pp. 484-494, March, 2015. [Paper]
+
 [1] Yao Guo, Kaide Huang, Nanyong Jiang, Xuemei Guo, and Guoli Wang*, “An Exponential-Rayleigh signal strength model for device-free localization and tracking with wireless networks,” International Conference on Intelligent Control and Information Processing (ICICIP), Beijing, China, 2013, pp. 108-113.
 
 
