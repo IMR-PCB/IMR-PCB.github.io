@@ -15,7 +15,7 @@ main:
     url: /#news
     
   - title: "Publications"
-    url: /
+    url: /#publications
 
   # - title: "Talks"
   # url: /talks/    
