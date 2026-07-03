@@ -44,12 +44,10 @@ News (last three years)
 * 2024.06 Yunfei Luan was awarded the <span style="color:red">Outstanding Bachelor's Thesis@SJTU (Top 1%)!</span>
 * 2024.06 Our paper was selected as the finalists of **IEEE ICMA 2024** <span style="color:red">Best Paper Award!</span>
 * 2024.06 We showcased NeuroDoc AI in **CSA&TISC 2024@Beijing!**
-* 2024.05 Jianxin Yang, Yujian An, Yating Luo & Yuxuan Liu presented their works (3 in total) in **ICRA 2024@Yokohama!**
+* 2024.05 Jianxin Yang, Yujian An, Yating Luo, Yuxuan Liu presented their papers (3 in total) in **ICRA 2024@Yokohama!**
 * 2024.04 Our paper was accepted by **Photoacoustics!**
 * 2024.01 Three papers were accepted by **IEEE ICRA 2024!**
 * 2024.01 Our paper was accepted by **IEEE/ASME Transactions on Mechatronics!**
-* 2023.11 Our collaboration paper was accepted by **IEEE Transactions on Visualization and Computer Graphics!**
-* 2023.10 Our paper was selected as the finalists of **IEEE IROS 2023** <span style="color:red">Best Paper Award on Cognitive Robotics!</span>
 
 <a id="publications"></a>
 
