@@ -28,7 +28,7 @@ News (last three years)
 * 2026.02 Two papers were accepted by **ICRA 2026!**
 * 2026.01 Our **Cyborg and Bionic Systems** paper was selected as <span style="color:red">Cover Article</span> and the <span style="color:red">Top 10 papers in 2025! </span>
 * 2025.10 Yating Luo,Yuxuan Liu, Xinyao Zhou, Zhenye Xu presented their papers (4 in total) in **IROS 2025@Hangzhou!**
-* 2025.09 Our paper was accepted by ****Cyborg and Bionic Systems!
+* 2025.09 Our paper was accepted by **Cyborg and Bionic Systems**!
 * 2025.07 Our paper was awaded the **CGIP 2025** <span style="color:red">Best Oral Presentation!</span>
 * 2025.06 Our collaboration pape was accepted by **Frontiers in Robotics and AI!**
 * 2025.06 Our paper was accepted by **IEEE/ASME Transactions on Mechatronics!**
