@@ -125,7 +125,7 @@ Selected Publications
 
 [23] **Yao Guo**, Weidong Chen, Jie Zhao, Guang-Zhong Yang\*, "Medical Robotics: Opportunities in China", _**Annual Review of Control, Robotics, and Autonomous Systems (ARCRAS)**_, vol. 5, no. 1, pp. 361-383, **2022**. [\[Paper\]](https://www.annualreviews.org/content/journals/10.1146/annurev-control-061521-070251)
 
-[22] **Yao Guo**, Jianxin Yang, Yuxuan Liu, Xun Chen\*, Guang-Zhong Yang\*, "Detection and Assessment of Parkinson's Disease based on Gait Analysis: A Survey", Frontiers in Aging Neuroscience, vol. 14, pp. 916971, **2022**. [\[Paper\]](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.916971)
+[22] **Yao Guo**, Jianxin Yang, Yuxuan Liu, Xun Chen\*, Guang-Zhong Yang\*, "Detection and Assessment of Parkinson's Disease based on Gait Analysis: A Survey", _**Frontiers in Aging Neuroscience**_, vol. 14, pp. 916971, **2022**. [\[Paper\]](https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.916971)
 
 [21] **Yao Guo**, Daniel Freer, Fani Deligianni, Guang-Zhong Yang\*, "Eye-tracking for Performance Evaluation and Workload Estimation in Space Telerobotic Training", _**IEEE Transactions on Human-Machine Systems (THMS)**_, vol. 52, no. 1, pp. 1-11, **2022**. [\[Paper\]](https://ieeexplore.ieee.org/document/9536018)
 
@@ -155,7 +155,7 @@ Selected Publications
 
 [10] **Yao Guo**, Fani Deligianni, Xiao Gu, Guang-Zhong Yang\*, "3D Canonical Pose Estimation and Abnormal Gait Recognition with a Single RGB-D Camera", _**IEEE Robotics and Automation Letters (RA-L)**_, vol. 4, no. 4, pp. 3617-3624, **2019**. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8968016)
 
-[9] Ya-Yen Tsai, **Yao Guo**, Guang-Zhong Yang\*, "Unsupervised Task Segmentation Approach for Bimanual Surgical Tasks using Spatiotemporal and Variance Properties", _**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**_, Macau, China, **2019**, pp. 7940-7946. [\[Paper\]]
+[9] Ya-Yen Tsai, **Yao Guo**, Guang-Zhong Yang\*, "Unsupervised Task Segmentation Approach for Bimanual Surgical Tasks using Spatiotemporal and Variance Properties", _**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**_, Macau, China, **2019**, pp. 7940-7946. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8968016/)
 
 [8] Dandan Zhang, **Yao Guo**, Junhong Chen, Jindong Liu, Guang-Zhong Yang\*, "A Handheld Master Controller for Robot-Assisted Microsurgery", _**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**_, Macau, China, **2019**, pp. 394-400. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8967774/)
 
@@ -165,9 +165,9 @@ Selected Publications
 
 [5] **Yao Guo**, You-Fu Li\*, Zhanpeng Shao, "On multi-scale self-similarities description for effective 3D/6D motion trajectory recognition", _**IEEE Transactions on Industrial Informatics (TII)**_, vol. 13, no. 6, pp. 3017-3026, **2017**. [\[Paper\]](https://doi.org/10.1109/TII.2017.2751072)
 
-[4] **Yao Guo**, You-Fu Li\*, Zhanpeng Shao, "MSM-HOG: A flexible trajectory descriptor for rigid body motion recognition", _**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**_, Vancouver, Canada, pp. 4298-4303, **2017**. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8206293/)
+[4] **Yao Guo**, You-Fu Li\*, Zhanpeng Shao, "MSM-HOG: A flexible trajectory descriptor for rigid body motion recognition", _**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**_, Vancouver, Canada, **2017**, pp. 4298-4303. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/8206293/)
 
-[3] **Yao Guo**, You-Fu Li\*, Zhanpeng Shao, "DSRF: A Flexible Descriptor for Effective Rigid Body Motion Trajectory Recognition", _**IEEE International Conference on Mechatronics and Automation (ICMA)**_, Harbin, China, pp. 1673-1678, **2016**. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/7558815/) (<span style="color:red">Best Conference Paper Award</span>)
+[3] **Yao Guo**, You-Fu Li\*, Zhanpeng Shao, "DSRF: A Flexible Descriptor for Effective Rigid Body Motion Trajectory Recognition", _**IEEE International Conference on Mechatronics and Automation (ICMA)**_, Harbin, China, **2016**, pp. 1673-1678. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/7558815/) (<span style="color:red">Best Conference Paper Award</span>)
 
 [2] **Yao Guo**, Kaide Huang, Nanyong Jiang, Xuemei Guo, Guoli Wang\*, "An Exponential-Rayleigh model for RSS-based device-free localization and tracking", _**IEEE Transactions on Mobile Computing (TMC)**_, vol. 14, no. 3, pp. 484-494, **2015**. [\[Paper\]](https://ieeexplore.ieee.org/document/6825897/)
 
