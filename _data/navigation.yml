@@ -20,10 +20,10 @@ main:
   # - title: "Talks"
   # url: /talks/    
 
-  - title: "Research Topics"
-    url: /talks/
-    
   - title: "Team Members"
+    url: /#teams
+    
+  - title: "Research Topics"
     url: /portfolio/
     
   # - title: "Teaching"
