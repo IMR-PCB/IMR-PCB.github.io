@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+About us
+======
 **Dr. Yao Guo leads the Perception, Cognition, and Behavior (PCB) group at Institute of Medical Robotics (IMR), Shanghai Jiao Tong University (SJTU).**
 
 Dr. Guo received his B.S. degree in automation and M.S. degree in communication and information system from Sun Yat-Sen University, Guangzhou, China in 2011 and 2014, respectively. He earned his Ph.D. degree in robotic vision from the City University of Hong Kong, Hong Kong in 2018. His postdoctoral training was at the Hamlyn Centre for Robotic Surgery, Imperial College London, London, UK from 2018 to 2020. He was the tenure-track Assistant Professor with the Institute of Medical Robotics, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China from 2020 to 2023. Since 2024, he has been the tenure-track Associate Professor. 
@@ -55,7 +57,7 @@ Selected Publications
 ======
 <span style="color:blue">**2026**</span>
 
-\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, **2026**. (\*Corresponding author)
+\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, **2026**.  [\[Paper\]]([https://ieeexplore.ieee.org/document/11561778](https://www.computer.org/csdl/journal/tm/5555/01/11592614/2hLQFXm0iqI)) (\*Corresponding author) 
 
 \[52\] Yating Luo, Yuxuan Liu, Yunfei Luan, **Yao Guo\***, Guang-Zhong Yang\*, "A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision", _**IEEE/ASME Transactions on Mechatronics (TMECH)**_, Accepted, **2026**. [\[Paper\]](https://ieeexplore.ieee.org/document/11561778) (\*Co-corresponding author)
 
@@ -173,11 +175,17 @@ Selected Publications
 
 [1] **Yao Guo**, Kaide Huang, Nanyong Jiang, Xuemei Guo, Guoli Wang\*, "An Exponential-Rayleigh signal strength model for device-free localization and tracking with wireless networks", _**International Conference on Intelligent Control and Information Processing (ICICIP)**_, Beijing, China, **2013**, pp. 108-113. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/6568050/)
 
+<a id="team"></a>
+
+Team Members
+======
+
+![Group Photo](/images/IMR-PCB-group.jpg)
 
 
 Institute of Medical Robotics (IMR)
 ======
 [**Institute of Medical Robotics**](https://imr.sjtu.edu.cn/) is an interdisciplinary research platform at Shanghai Jiao Tong University, founded by Professor **Guang-Zhong Yang**, a Fellow of the Royal Academy of Engineering and the founding Editor-in-Chief of Science Robotics. Focusing on the early diagnosis and personalized treatment of major diseases such as cancer, cardiovascular diseases, and neurodegenerative diseases, the Institute brings together the latest advances in robotics and related technologies to drive transformation in the fields of surgery, rehabilitation, and hospital automation. The Institute aims to lead innovative research in key technologies of medical robotics, develop a new generation of medical equipment centered on robotics and artificial intelligence, establish a multidisciplinary talent training and industrial incubation base, and promote the clinical translation of innovative robotic technologies.
 
-![Group Photo](/images/IMR-PCB-group.jpg)
+
 
