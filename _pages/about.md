@@ -175,7 +175,7 @@ Selected Publications
 
 [1] **Yao Guo**, Kaide Huang, Nanyong Jiang, Xuemei Guo, Guoli Wang\*, "An Exponential-Rayleigh signal strength model for device-free localization and tracking with wireless networks", _**International Conference on Intelligent Control and Information Processing (ICICIP)**_, Beijing, China, **2013**, pp. 108-113. [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/6568050/)
 
-<a id="team"></a>
+<a id="teams"></a>
 
 Team Members
 ======
