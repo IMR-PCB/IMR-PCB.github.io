@@ -179,8 +179,12 @@ Selected Publications
 
 Team Members
 ======
+**Current Members**
 ![Current Members](/images/CM.png)
+
+**Alumni**
 ![Alumni](/images/AL.png)
+
 ![Group Photo](/images/IMR-PCB-group.jpg)
 
 
