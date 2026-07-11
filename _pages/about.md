@@ -57,7 +57,7 @@ Selected Publications
 ======
 <span style="color:blue">**2026**</span>
 
-\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, DOI: 10.1109/TMC.2026.3708372, **2026**.  [\[Paper\]](https://ieeexplore.ieee.org/document/11561778) (\*Corresponding author) 
+\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, DOI: 10.1109/TMC.2026.3708372, **2026**.  [\[Paper\]](https://ieeexplore.ieee.org/document/11592614) (\*Corresponding author) 
 
 \[52\] Yating Luo, Yuxuan Liu, Yunfei Luan, **Yao Guo\***, Guang-Zhong Yang\*, "A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision", _**IEEE/ASME Transactions on Mechatronics (TMECH)**_, Accepted, DOI: 10.1109/TMECH.2026.3696526, **2026**. [\[Paper\]](https://ieeexplore.ieee.org/document/11561778) (\*Co-corresponding author)
 
