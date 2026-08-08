@@ -181,14 +181,23 @@ Team Members
 ======
 
 **_PhD Students_**
-
-Ms. Yating Luo (2021-), Robot Learning and robot control
-
+---------
+Ms. Yating Luo (2021-), Robot Learning and robot control<br>
 Mr. Yuxuan Liu (2022-), Surginal scene understanding and surgical automation<br>
 Mr. Bingze He (2022-), Micro-manipulation and micro-robotics<br>
-Mr. Musen Zhang (2023-)
+Mr. Musen Zhang (2023-), Egocentric vision and human motion analysis<br>
+Ms. Yufei Luan (2024-), Human-robot interaction and human-robot collaboration<br>
+Mr. Tianshu Zhao (2026-), Brain-spinal interface and bioinspired robot learning
 
-**Master Students**
+**_Master Students_**
+---------
+Mr. Xinyao Zhou (2024-), Robot vision for microsurgical robot<br>
+Ms. Ruoyi Li (2025-), Vision-based facial palsy assessment<br>
+Mr. Jingsong Liu (2026-), Teleoperated surgical robot and human-robot interaction
+
+**_Alumni_**
+Dr. Yujian An (2021-2025); PhD; Research topic: Micro-manipulation and micro-robotics; Position: Senior Research in United Imaging Co. Ltd. (Shanghai, China) <br>
+Dr. Jianxin Yang (2021-2026); Phd; Research topic: Human pose estimation and human action recogtion, vision-based human functional behavior assessment; Position: Senior Researcher in Diligine Co. Ltd. (Guangzhou, China) <br>
 
 ![Group Photo](/images/IMR-PCB-group.jpg)
 
