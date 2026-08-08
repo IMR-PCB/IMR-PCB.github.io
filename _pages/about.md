@@ -196,8 +196,11 @@ Ms. Ruoyi Li (2025-), Vision-based facial palsy assessment<br>
 Mr. Jingsong Liu (2026-), Teleoperated surgical robot and human-robot interaction
 
 **_Alumni_**
-Dr. Yujian An (2021-2025); PhD; Research topic: Micro-manipulation and micro-robotics; Position: Senior Research in United Imaging Co. Ltd. (Shanghai, China) <br>
-Dr. Jianxin Yang (2021-2026); Phd; Research topic: Human pose estimation and human action recogtion, vision-based human functional behavior assessment; Position: Senior Researcher in Diligine Co. Ltd. (Guangzhou, China) <br>
+---------
+**Dr. Yujian An (2021-2025); PhD;** Research topic: Micro-manipulation and micro-robotics; Position: Senior Research in United Imaging Co. Ltd. (Shanghai, China) <br>
+**Dr. Jianxin Yang (2021-2026); Phd;** Research topic: Human pose estimation and human action recogtion, vision-based human functional behavior assessment; Position: Senior Researcher in Diligine Co. Ltd. (Guangzhou, China) <br>
+**Mr. Jinkai Li; Master;** Research topic: gaze estimation and vision-based facial abnormalities analysis; Position: Researcher in BIGAI (Beijing, China) <br>
+**Mr. Zhenye Xu; Master;** Research topic: wearable and vision techniques for post-stroke movement analysis; Position: Researcher in ZTE (Shanghai, China)<br>
 
 ![Group Photo](/images/IMR-PCB-group.jpg)
 
