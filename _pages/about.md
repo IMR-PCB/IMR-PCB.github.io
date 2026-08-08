@@ -184,8 +184,8 @@ Team Members
 
 Ms. Yating Luo (2021-), Robot Learning and robot control
 
-Mr. Yuxuan Liu (2022-), Surginal scene understanding and surgical automation
-Mr. Bingze He (2022-), Micro-manipulation and micro-robotics
+Mr. Yuxuan Liu (2022-), Surginal scene understanding and surgical automation<br>
+Mr. Bingze He (2022-), Micro-manipulation and micro-robotics<br>
 Mr. Musen Zhang (2023-)
 
 **Master Students**
