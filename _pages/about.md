@@ -179,11 +179,24 @@ Selected Publications
 
 Team Members
 ======
+
+**_PhD Students_**
+
+Ms. Yating Luo (2021-), Robot Learning and robot control
+
+Mr. Yuxuan Liu (2022-), Surginal scene understanding and surgical automation
+Mr. Bingze He (2022-), Micro-manipulation and micro-robotics
+Mr. Musen Zhang (2023-)
+
+**Master Students**
+
+![Group Photo](/images/IMR-PCB-group.jpg)
+
+<!--
 ![Current Members](/images/CM.png)
 
 ![Alumni](/images/AL.png)
-
-![Group Photo](/images/IMR-PCB-group.jpg)
+-->
 
 
 Institute of Medical Robotics (IMR)
