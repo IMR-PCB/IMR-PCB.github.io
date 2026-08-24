@@ -21,7 +21,8 @@ Dr. Guo engages in frontier theoretical research in areas such as human behavior
 
 News (last three years)
 ======
-* 2026.06 Our paper was accepted by **IEEE Transactions on Mobile Computing!**
+* 2026.08 Our paper was accepted by **Medical Image Analysis!**
+* 2026.07 Our paper was accepted by **IEEE Transactions on Mobile Computing!**
 * 2026.06 Our paper was accepted by **MICCAI 2026!**
 * 2026.06 Yunfei Luan and Yuxuan Liu presented their papers (2 in total) in **ICRA 2026@Vienna!**
 * 2026.05 Our paper was accepted by **IEEE/ASME Transactions on Mechatronics!**
@@ -56,6 +57,8 @@ News (last three years)
 Selected Publications 
 ======
 <span style="color:blue">**2026**</span>
+
+\[54\] Yuxuan Liu\#, Xinyao Zhou\#, Yating Luo, Yunfei Luan, Musen Zhang, Yao Guo*, Guang-Zhong Yang*, "Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation", _**Medical Image Analysis (MEDIA)**_, Accepted, **2026**. (*Co-corresponding author)
 
 \[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, DOI: 10.1109/TMC.2026.3708372, **2026**.  [\[Paper\]](https://ieeexplore.ieee.org/document/11592614) (\*Corresponding author) 
 
