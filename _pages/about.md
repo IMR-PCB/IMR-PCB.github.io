@@ -59,7 +59,7 @@ Selected Publications
 ======
 <span style="color:blue">**2026**</span>
 
-\[55\]Yujian An\#, Jianxin Yang\#, Bingze He\#, **Yao Guo\***, Guang-Zhong Yang*, "Learning for Microscale Mechano-Flow Co-manipulation", _**<span style="color:red">Nature Communications</span>**_, Accepted, **2026**.  [\[Code\]](https://github.com/IMR-PCB/FlowBot) (*Co-corresponding author) 
+\[55\]Yujian An\#, Jianxin Yang\#, Bingze He\#, **Yao Guo\***, Guang-Zhong Yang*, "Learning for Microscale Mechano-Flow Co-manipulation", _**Nature Communications**_, Accepted, **2026**.  [\[Code\]](https://github.com/IMR-PCB/FlowBot) (*Co-corresponding author) 
 
 \[54\] Yuxuan Liu\#, Xinyao Zhou\#, Yating Luo, Yunfei Luan, Musen Zhang, **Yao Guo\***, Guang-Zhong Yang*, "Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation", _**Medical Image Analysis (MEDIA)**_, vol. 114, pp. 104279, **2026**. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S1361841526003488)  (*Co-corresponding author)
 
