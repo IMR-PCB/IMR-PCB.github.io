@@ -63,7 +63,7 @@ Selected Publications
 
 \[54\] Yuxuan Liu\#, Xinyao Zhou\#, Yating Luo, Yunfei Luan, Musen Zhang, **Yao Guo\***, Guang-Zhong Yang*, "Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation", _**Medical Image Analysis (MEDIA)**_, vol. 114, pp. 104279, **2026**. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S1361841526003488)  (*Co-corresponding author)
 
-\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, DOI: 10.1109/TMC.2026.3708372, **2026**.  [\[Paper\]](https://ieeexplore.ieee.org/document/11592614) (\*Corresponding author) 
+\[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, vol. 25, no. 10, pp. 18970-18982, **2026**.  [\[Paper\]](https://ieeexplore.ieee.org/document/11592614) (\*Corresponding author) 
 
 \[52\] Yating Luo, Yuxuan Liu, Yunfei Luan, **Yao Guo\***, Guang-Zhong Yang\*, "A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision", _**IEEE/ASME Transactions on Mechatronics (TMECH)**_, Accepted, DOI: 10.1109/TMECH.2026.3696526, **2026**. [\[Paper\]](https://ieeexplore.ieee.org/document/11561778) (\*Co-corresponding author)
 
