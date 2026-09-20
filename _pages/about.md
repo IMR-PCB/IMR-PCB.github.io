@@ -21,18 +21,19 @@ Dr. Guo engages in frontier theoretical research in areas such as human behavior
 
 News (last three years)
 ======
+* 2026.09 Our paper was accepted by **<span style="color:red">Nature Communications!</span>**
 * 2026.08 Our paper was accepted by **Medical Image Analysis!**
 * 2026.07 Our paper was accepted by **IEEE Transactions on Mobile Computing!**
 * 2026.06 Our paper was accepted by **MICCAI 2026!**
 * 2026.06 Yunfei Luan and Yuxuan Liu presented their papers (2 in total) in **ICRA 2026@Vienna!**
 * 2026.05 Our paper was accepted by **IEEE/ASME Transactions on Mechatronics!**
-* 2026.05 Our paper was selected as the finalists of **IEEE ICRA 2026** <span style="color:red">Best Paper Award in Medical Robotics!</span>
+* 2026.05 Our paper was selected as the finalists of **IEEE ICRA 2026** **<span style="color:red">Best Paper Award in Medical Robotics!</span>**
 * 2026.03 Our paper was accepted by **Pattern Recognition!**
 * 2026.02 Two papers were accepted by **ICRA 2026!**
-* 2026.01 Our **Cyborg and Bionic Systems** paper was selected as <span style="color:red">Cover Article</span> and the <span style="color:red">Top 10 papers in 2025! </span>
+* 2026.01 Our **Cyborg and Bionic Systems** paper was selected as **<span style="color:red">Cover Article</span>** and the **<span style="color:red">Top 10 papers in 2025! </span>**
 * 2025.10 Yating Luo,Yuxuan Liu, Xinyao Zhou, Zhenye Xu presented their papers (4 in total) in **IROS 2025@Hangzhou!**
 * 2025.09 Our paper was accepted by **Cyborg and Bionic Systems**!
-* 2025.07 Our paper was awaded the **CGIP 2025** <span style="color:red">Best Oral Presentation!</span>
+* 2025.07 Our paper was awaded the **CGIP 2025** **<span style="color:red">Best Oral Presentation!</span>**
 * 2025.06 Our collaboration pape was accepted by **Frontiers in Robotics and AI!**
 * 2025.06 Our paper was accepted by **IEEE/ASME Transactions on Mechatronics!**
 * 2025.06 Four papers were accepted by **IEEE IROS 2025!**
@@ -45,7 +46,7 @@ News (last three years)
 * 2024.09 We showcased NeuroDoc AI in **CIFTIS 2024@Beijing**, which has been widely reported by the People's Daily and other media!
 * 2024.09 Our paper was accepted by **Engineering**!
 * 2024.06 Yunfei Luan was awarded the <span style="color:red">Outstanding Bachelor's Thesis@SJTU (Top 1%)!</span>
-* 2024.06 Our paper was selected as the finalists of **IEEE ICMA 2024** <span style="color:red">Best Paper Award!</span>
+* 2024.06 Our paper was selected as the finalists of **IEEE ICMA 2024** **<span style="color:red">Best Paper Award!</span>**
 * 2024.06 We showcased NeuroDoc AI in **CSA&TISC 2024@Beijing!**
 * 2024.05 Jianxin Yang, Yujian An, Yating Luo, Yuxuan Liu presented their papers (3 in total) in **ICRA 2024@Yokohama!**
 * 2024.04 Our paper was accepted by **Photoacoustics!**
@@ -57,8 +58,9 @@ News (last three years)
 Selected Publications 
 ======
 <span style="color:blue">**2026**</span>
+\[55\]Yujian An\#, Jianxin Yang\#, Bingze He\#†, **Yao Guo\***, Guang-Zhong Yang*, "Learning for Microscale Mechano-Flow Co-manipulation", _**<span style="color:red">Nature Communications</span>**_, Accepted, **2026**.  [\[Code\]](https://github.com/IMR-PCB/FlowBot) (*Co-corresponding author) 
 
-\[54\] Yuxuan Liu\#, Xinyao Zhou\#, Yating Luo, Yunfei Luan, Musen Zhang, Yao Guo*, Guang-Zhong Yang*, "Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation", _**Medical Image Analysis (MEDIA)**_, vol. 114, pp. 104279, **2026**. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S1361841526003488)  (*Co-corresponding author)
+\[54\] Yuxuan Liu\#, Xinyao Zhou\#, Yating Luo, Yunfei Luan, Musen Zhang, **Yao Guo\***, Guang-Zhong Yang*, "Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation", _**Medical Image Analysis (MEDIA)**_, vol. 114, pp. 104279, **2026**. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S1361841526003488)  (*Co-corresponding author)
 
 \[53\] Musen Zhang, Yuxuan Liu, Yunfei Luan, Jinkai Li, **Yao Guo\***, "Towards Robust Egocentric Object Tracking: A Plug-and-Play Trajectory-Aware Approach", _**IEEE Transactions on Mobile Computing (TMC)**_, Accepted, DOI: 10.1109/TMC.2026.3708372, **2026**.  [\[Paper\]](https://ieeexplore.ieee.org/document/11592614) (\*Corresponding author) 
 
