@@ -59,7 +59,7 @@ Selected Publications
 ======
 <span style="color:blue">**2026**</span>
 
-\[55\] Yujian An\#, Jianxin Yang\#, Bingze He\#, **Yao Guo\***, Guang-Zhong Yang\*, "Learning for Microscale Mechano-Flow Co-manipulation", _**Nature Communications**_, Accepted, **2026**.  [\[Code\]](https://github.com/IMR-PCB/FlowBot) (*Co-corresponding author) 
+\[55\] Yujian An\#, Jianxin Yang\#, Bingze He\#, **Yao Guo\***, Guang-Zhong Yang\*, "Learning for Microscale Mechano-Flow Co-manipulation", _**Nature Communications**_, Accepted, **2026**. [\[Paper\]](https://www.nature.com/articles/s41467-026-77746-z)[\[Code\]](https://github.com/IMR-PCB/FlowBot) (*Co-corresponding author) 
 
 \[54\] Yuxuan Liu\#, Xinyao Zhou\#, Yating Luo, Yunfei Luan, Musen Zhang, **Yao Guo\***, Guang-Zhong Yang\*, "Surgical Instrument-Tissue Characterization via Multi-task Self-supervised Instrument Segmentation and Motion Estimation", _**Medical Image Analysis (MEDIA)**_, vol. 114, pp. 104279, **2026**. [\[Paper\]](https://www.sciencedirect.com/science/article/pii/S1361841526003488)  (*Co-corresponding author)
 
@@ -67,7 +67,7 @@ Selected Publications
 
 \[52\] Yating Luo, Yuxuan Liu, Yunfei Luan, **Yao Guo\***, Guang-Zhong Yang\*, "A Hierarchical Learning Framework for Micro-Electrode Manipulation under Microscopic Vision", _**IEEE/ASME Transactions on Mechatronics (TMECH)**_, Accepted, DOI: 10.1109/TMECH.2026.3696526, **2026**. [\[Paper\]](https://ieeexplore.ieee.org/document/11561778) (\*Co-corresponding author)
 
-[51] Xinyao Zhou, Yuxuan Liu, Yating Luo, Yunfei Luan, Guang-Zhong Yang, **Yao Guo\***, "Wrist Camera Pose-Guided Multi-View Fusion for Occlusion Reconstruction in Robot-Assisted Microsurgical Anastomosis", _**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**_, Strasbourg, France, Accepted, **2026**. (\*Corresponding author)
+[51] Xinyao Zhou, Yuxuan Liu, Yating Luo, Yunfei Luan, Guang-Zhong Yang, **Yao Guo\***, "Wrist Camera Pose-Guided Multi-View Fusion for Occlusion Reconstruction in Robot-Assisted Microsurgical Anastomosis", _**International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)**_, Strasbourg, France, pp. 626-636, **2026**. [\[Paper\]](https://www.nature.com/articles/s41467-026-77746-z)[\[Dataset\]](https://github.com/IMR-PCB/Wrist-View-Dataset) (\*Corresponding author)
 
 [50] Yunfei Luan, Yuxuan Liu, Yuyang Zhuge, Yating Luo, **Yao Guo\***, Guang-Zhong Yang\*, "One-Shot Autofocus Via User-Adaptive Gaze Control for Robot-Assisted Microsurgery", _**IEEE International Conference on Robotics and Automation (ICRA)**_, Vienna, Austria, Accepted, **2026**. (\*Co-corresponding author, <span style="color:red">**Finalists of Best Paper Award in Medical Robotics**</span>)
 
